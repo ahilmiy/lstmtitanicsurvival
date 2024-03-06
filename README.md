@@ -12,12 +12,19 @@ Access the Prediction Form: Open your web browser and go to http://localhost:500
 Enter Passenger Details: Fill out the form with the following details:
 
 -**Pclass:** Passenger class (1st, 2nd, or 3rd).
+
 -**Sex:** Gender of the passenger (Male or Female).
+
 -**Age:** Age of the passenger.
+
 -**SibSp:** Number of siblings/spouses aboard.
+
 -**Parch:** Number of parents/children aboard.
+
 -**Fare:** Passenger fare.
+
 -**Embarked:** Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
+
 -**Predict Survival Rate:** Click on the "Predict" button to submit the form and receive the predicted survival rate for the given passenger.
 
 ### Files
