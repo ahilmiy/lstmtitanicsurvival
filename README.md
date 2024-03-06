@@ -22,12 +22,19 @@ Enter Passenger Details: Fill out the form with the following details:
 
 ### Files
 -**app.py:** Python script that serves the Flask web application. It loads a pre-trained LSTM model and provides an endpoint to make predictions.
+
 -**model.json and model_weights.h5:** Files containing the architecture and weights of the pre-trained LSTM model used for survival prediction.
+
 -**index.php:** HTML form that collects passenger details and sends them to the Flask server for prediction.
+
 ### Technologies Used
+
 -**Flask:** Python web framework used for serving the web application and handling HTTP requests.
+
 -**TensorFlow/Keras:** Deep learning library used for loading and making predictions with the LSTM model.
+
 -**HTML/CSS:** Frontend technologies used for creating the prediction form.
+
 ### Sample Usage
 -Open your web browser and go to http://localhost:5000/.
 
